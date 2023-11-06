@@ -1,4 +1,4 @@
-LDD_VERSION = 'e74cb088869c96d40635c228970b6740ea333faf'
+LDD_VERSION = '91d2d0a05099aeba1b6341a6a855f755d917dccb'
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
