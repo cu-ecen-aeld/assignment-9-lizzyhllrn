@@ -1,5 +1,5 @@
 
-config BR2_PACKAGE_LDD
-	bool "LDD"
+config BR2_PACKAGE_AESDCHAR
+	bool "aesd-char-driver"
 	help
-	  incldue scull and misc-modules
+	  incldue aesdchar driver
